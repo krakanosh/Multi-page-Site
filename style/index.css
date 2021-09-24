@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+.fullscreen-bg__video {
+    width: 100%;
+    height: 100vh;
+    margin-top: -20px;
+}
+
+button {
+    min-width: 100px;
+    height: 60px;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 5px green;
+    background-color: black;
+    font-size: 32px;
+    color: green;
+    cursor: pointer;
+    margin-right: 7vh;
+    position: fixed;
+    right: 0;
+}
+
+button:hover {
+    min-width: 110px;
+    height: 70px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* button a {
+    font-size: 32px;
+    color: green;
+} */
+
+.button__wrap {
+    width: 280px;
+    height: 90px;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}

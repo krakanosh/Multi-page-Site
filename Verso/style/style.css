@@ -1,0 +1,119 @@
+@import "normalize.css";
+@import "header.css";
+@import "footer.css";
+
+.box-grey {position: absolute;
+	width: 58px;
+	height: 64px;
+	left: 1793px;
+	top: 321px;}
+
+.box-yellow {position: absolute;
+width: 44px;
+height: 49px;
+left: 1851px;
+top: 207px;}
+
+.box-purle {position: absolute;
+width: 44px;
+height: 49px;
+left: 390px;
+top: 639px;}
+
+.box-green {position: absolute;
+width: 73px;
+height: 81px;
+left: 304px;
+top: 719px;}
+
+
+
+h1 {position: absolute;
+	width: 790px;
+	height: 80px;
+	left: 856px;
+	top: 221px;
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 51px;
+	line-height: 80px;
+	text-align: center;
+	letter-spacing: -2.4px;
+	color: #ffffff;
+	margin-top: 29px;
+}
+
+h2 {position: absolute;
+	width: 689px;
+	height: 56px;
+	left: 906px;
+	top: 321px;
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	line-height: 28px;
+	text-align: center;
+	letter-spacing: -0.2px;
+	color: #ffffff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1200px) {
+    .landing-page {
+
+    }
+}
+@media (max-width: 992px) {
+    .landing-page {
+
+    }
+}
+@media (max-width: 768px) {
+    .landing-page {
+
+    }
+}
