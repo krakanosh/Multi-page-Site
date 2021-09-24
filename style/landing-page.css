@@ -83,7 +83,7 @@ body {
 }
 @media (max-width: 768px) {
     .video {
-        width: 85%;
+        width: 65%;
         height: auto;
         margin-top: 5vh;
     }
