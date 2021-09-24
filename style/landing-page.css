@@ -73,16 +73,15 @@ body {
     padding-top: 60px;
     flex: 1 1 auto;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1080px) {
     .video {
-        width: 55vh;
-        height: auto;
-        margin-top: 5vh;
+        width: 40vh;
+        height: 30vh;
     }
 
     .google {
-        width: 45vh;
-        height: auto;
+        width: 40vh;
+        height: 30vh;
     }
 
     .block__1 {
@@ -94,28 +93,11 @@ body {
         margin-top: 3vh;
     }
 }
+
 @media (max-width: 992px) {
     .landing-page {
     }
 }
 @media (max-width: 768px) {
-    .video {
-        width: 55vh;
-        height: auto;
-        margin-top: 5vh;
-    }
-
-    .google {
-        width: 45vh;
-        height: auto;
-    }
-
-    .block__1 {
-        margin-top: 15vh;
-        margin-bottom: 7vh;
-    }
-
-    .container {
-        margin-top: 3vh;
-    }
+    
 }
