@@ -81,7 +81,7 @@ body {
     .landing-page {
     }
 }
-@media (max-width: 768px) {
+@media (max-width: 400px) {
     .video {
         width: 55vh;
         height: auto;
