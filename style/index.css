@@ -49,3 +49,10 @@ button:hover {
     justify-content: center;
     margin-top: 10vh;
 }
+
+@media (max-width: 768px) {
+    button {
+        margin-top: 63vh;
+        margin-right: 23vh;
+    }
+}
