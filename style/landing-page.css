@@ -83,13 +83,13 @@ body {
 }
 @media (max-width: 768px) {
     .video {
-        width: 65%;
+        width: 55%;
         height: auto;
         margin-top: 5vh;
     }
 
     .google {
-        width: 85%;
+        width: 45%;
         height: auto;
     }
 
