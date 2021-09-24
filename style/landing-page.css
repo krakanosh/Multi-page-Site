@@ -85,12 +85,12 @@ body {
     .video {
         width: 20vh;
         height: 10vh;
+        margin-top: 10vh;
     }
 
     .google {
-        width: 40vh;
-        height: 30vh;
-        margin-top: ;
+        width: 20vh;
+        height: 10vh;
     }
 
     .block__1 {
