@@ -82,6 +82,23 @@ body {
     }
 }
 @media (max-width: 768px) {
-    .landing-page {
+    .video {
+        width: 85%;
+        height: auto;
+        margin-top: 5vh;
+    }
+
+    .google {
+        width: 85%;
+        height: auto;
+    }
+
+    .block__1 {
+        margin-top: 15vh;
+        margin-bottom: 7vh;
+    }
+
+    .container {
+        margin-top: 3vh;
     }
 }
