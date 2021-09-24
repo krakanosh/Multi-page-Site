@@ -75,8 +75,8 @@ body {
 }
 @media (max-width: 1080px) {
     .video {
-        width: 40vh;
-        height: 30vh;
+        width: 4vh;
+        height: 3vh;
     }
 
     .google {
